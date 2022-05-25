@@ -1,0 +1,4 @@
+repository "Analogue Horror@Hidexus@cloud"
+  path "/"
+    br "/main"
+    co "/main"
